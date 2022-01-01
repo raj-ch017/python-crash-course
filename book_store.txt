@@ -4,3 +4,4 @@ README file for book_store.py
 
 This text file contains the explaination for the script for book_store.py
 
+The script calculates the total price for a particular book, depending on the discount offered and number of copies ordered.
