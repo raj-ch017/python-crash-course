@@ -1,0 +1,6 @@
+README file for book_store.py
+
+===============
+
+This text file contains the explaination for the script for book_store.py
+
