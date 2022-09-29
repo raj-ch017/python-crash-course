@@ -13,4 +13,10 @@ This course is designed to teach you the foundations in order to write simple pr
  - Understand how to use the basic Python structes of lists, strings and dictionaries
  - Creating your own Python objects
 
-[Course Link](https://www.coursera.org/learn/python-crash-course)
+# Documentation
+
+[Here's a link to the course site](https://www.coursera.org/learn/python-crash-course)
+
+
+
+![image](https://user-images.githubusercontent.com/96816530/192972083-eb9094c3-a48f-4da3-a8e3-83d9c1ce6a02.png)
