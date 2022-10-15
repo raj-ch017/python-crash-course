@@ -23,7 +23,6 @@ Documentation:
 </p>
 </h1>
 
-[Here's a link to the course site](https://www.coursera.org/learn/python-crash-course)
 
 
 
