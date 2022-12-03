@@ -24,6 +24,10 @@ Documentation:
 </h1>
 
 
+<p align="center" width="100%">
+   <img width="75%" src="https://user-images.githubusercontent.com/96816530/192972083-eb9094c3-a48f-4da3-a8e3-83d9c1ce6a02.png">
+</p>   
 
+---
 
-![image](https://user-images.githubusercontent.com/96816530/192972083-eb9094c3-a48f-4da3-a8e3-83d9c1ce6a02.png)
+#### This repository has been marked 'completed'.
