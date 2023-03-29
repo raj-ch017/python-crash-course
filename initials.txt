@@ -1,6 +1,0 @@
-		README file for initials.py
-
-===============================
-
-	The initials.py script returns the initials of the input argument.
-	The output is returned in upper case.
