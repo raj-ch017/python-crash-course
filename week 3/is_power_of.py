@@ -1,3 +1,7 @@
+"""
+Complete the is_power_of function return whether the number is a power of the given base.
+"""
+
 def is_power_of(number, base):
   
   if number < base and number !=1:
