@@ -1,3 +1,5 @@
-In this module you'll explore the intricacies of loops in Python! You'll learn how to use while loops to continuously execute code, as well as how to identify infinite loop errors and how to fix them. 
+In this module, learners will explore the intricacies of loops in Python. They will learn how to use while loops to continuously execute code and identify 
+infinite loop errors and how to fix them.
 
-You'll also learn to use for loops to iterate over data, and how to use the range() function with for loops. You'll also explore common errors when using for loops and how to fix them.
+They will also learn to use for loops to iterate over data and how to use the range() function with for loops.
+Learners will also explore common errors when using for loops and how to fix them.
